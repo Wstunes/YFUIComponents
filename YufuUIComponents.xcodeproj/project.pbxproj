@@ -121,7 +121,7 @@
 		B7BDC18F2072150400F94AFE = {
 			isa = PBXGroup;
 			children = (
-				B7BDC19B2072150400F94AFE /* YufuUIComponents */,
+				B7BDC19B2072150400F94AFE /* Sources */,
 				B7BDC1A62072150400F94AFE /* YufuUIComponentsTests */,
 				B7BDC19A2072150400F94AFE /* Products */,
 				59D193C21114F8DBB9D1C076 /* Pods */,
@@ -138,7 +138,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		B7BDC19B2072150400F94AFE /* YufuUIComponents */ = {
+		B7BDC19B2072150400F94AFE /* Sources */ = {
 			isa = PBXGroup;
 			children = (
 				B7060B0B20722CB400F35EA0 /* constant */,
@@ -147,7 +147,7 @@
 				B7BDC19C2072150400F94AFE /* YufuUIComponents.h */,
 				B7BDC19D2072150400F94AFE /* Info.plist */,
 			);
-			path = YufuUIComponents;
+			path = Sources;
 			sourceTree = "<group>";
 		};
 		B7BDC1A62072150400F94AFE /* YufuUIComponentsTests */ = {
